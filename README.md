@@ -8,7 +8,7 @@ I’m a passionate Web Developer with over nine years of professional experience
 
 Continuous learning is a core part of who I am. I regularly explore new technologies through personal side projects to stay up to date with modern frameworks and evolving best practices.
 
-## 🔭 I’m currently working on Travelport
+## 🔭 I’m currently working at Travelport
 
 Working on a B2B web application based on an internal framework using React, Redux and with a micro-service architecture using Express, GraphQL and a bunch of other tools.
 
